@@ -6,6 +6,7 @@ body{
 }
 .flores{
     position: absolute;
+    left: -120px;
 }
 .container{
     position: relative;
