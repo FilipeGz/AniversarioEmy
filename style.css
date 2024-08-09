@@ -4,6 +4,9 @@ body{
     min-height: 100vh;
     background: #aefaf6;
 }
+.flores{
+    position: absolute;
+}
 .container{
     position: relative;
 }
